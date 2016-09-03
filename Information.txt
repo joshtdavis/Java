@@ -1,0 +1,11 @@
+Jane Rivers 902-A 05/16/2001 1 16.25
+Bob Cox 823-S 06/21/1990 2 17.50
+Ann Ramsey 715-A 02/12/1998 1 16.25
+Joseph Chandler 723-P 12/22/2000 3 14.35
+Arnold Kennedy 133-S 08/10/1999 2 18.20
+Larry Huber 198-P 02/12/2000 3 17.25
+Annette Wilson 501-H 04/04/1995 1 20.25
+Robert Ferguson 674-H 04/10/2002 2 16.50
+Ava Gaines 434-H 01/05/2000 3 15.65
+
+

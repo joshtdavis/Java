@@ -1,0 +1,9 @@
+The Employee's name is Jane Rivers they were hired on 05/16/2001 their Employee number is 902-A they work in Accounting they are on the Morning shift they make 16.25 dollars an hour 
+The Employee's name is Bob Cox they were hired on 06/21/1990 their Employee number is 823-S they work in Shipping they are on the Swing shift they make 17.50 dollars an hour 
+The Employee's name is Ann Ramsey they were hired on 02/12/1998 their Employee number is 715-A they work in Accounting they are on the Morning shift they make 16.25 dollars an hour 
+The Employee's name is Joseph Chandler they were hired on 12/22/2000 their Employee number is 723-P they work in Production they are on the Night shift they make 14.35 dollars an hour 
+The Employee's name is Arnold Kennedy they were hired on 08/10/1999 their Employee number is 133-S they work in Shipping they are on the Swing shift they make 18.20 dollars an hour 
+The Employee's name is Larry Huber they were hired on 02/12/2000 their Employee number is 198-P they work in Production they are on the Night shift they make 17.25 dollars an hour 
+The Employee's name is Annette Wilson they were hired on 04/04/1995 their Employee number is 501-H they work in Human Resources they are on the Morning shift they make 20.25 dollars an hour 
+The Employee's name is Robert Ferguson they were hired on 04/10/2002 their Employee number is 674-H they work in Human Resources they are on the Swing shift they make 16.50 dollars an hour 
+The Employee's name is Ava Gaines they were hired on 01/05/2000 their Employee number is 434-H they work in Human Resources they are on the Night shift they make 15.65 dollars an hour 
